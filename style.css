@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.pic{
+    margin: auto;
+    margin-top: 40px;
+    width: 850px;
+    height: 500px;
+}
