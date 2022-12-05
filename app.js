@@ -2,7 +2,7 @@ let slidder = document.querySelector(".slide")
 var imge = ['im1.jpg','im2.jpg','im3.jpg']
 var i = 0
 
-function previou() {
+function previous() {
     if (i <= 0) i = imge.length;
     i--;
     return getImg();
